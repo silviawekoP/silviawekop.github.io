@@ -2,25 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.transitionpolicy.rw.fau.de/team/postdocs/silvia-weko-m-sc/'>Postdoc at FAU Chair of Sustainability Transition Policy</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Associate</p>
+    <p>FAU Chair of Sustainability Transition Studies</p>
+    <p>Nuremberg, Germany</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Silvia Weko joined the FAU Chair of Sustainability Transition Policy in 2023. Her research focuses on the politics of sustainability transitions, and the different actors that aim to shape how economic value is created and distributed. From 2019-2023 she worked as a research associate with the Research Institute for Sustainability (RIFS) on topics including the geopolitics of green hydrogen, technology transfer and innovation, data and intellectual property in transitions, and EU sustainability policy. She is a doctoral candidate at the University of Erfurt with the Graduate Center for Effective and Innovative Policymaking in Contested Contexts (EIPCC).
