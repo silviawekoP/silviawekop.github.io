@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://silviawekop.github.io/al-folio/sitemap.xml
+Sitemap: https://silviawekop.github.io/sitemap.xml
